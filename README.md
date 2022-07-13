@@ -1,6 +1,6 @@
 # Luísa Maria Cardoso Teixeira
 
-!(Avatar)[imagem.png]
+![Avatar](imagem.png)
 
 ## Dados pessoais 
 
